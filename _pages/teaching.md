@@ -20,6 +20,7 @@ nav: true
   </thead>
   <tbody>
     <tr>
+    
       <td>Privacy and security risks in machine learning</td>
       <td> Sécurité des systèmes informatiques INF8750</td>
       <td>Université du Québec à Montréal</td>
