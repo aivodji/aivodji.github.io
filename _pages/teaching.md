@@ -24,7 +24,7 @@ nav: true
       <td> Sécurité des systèmes informatiques INF8750</td>
       <td>Université du Québec à Montréal</td>
       <td>Sébastien Gambs</td>
-      <td>2021</td>
+      <td></td>
     </tr>
     <tr>
       <td>IA & Society</td>
