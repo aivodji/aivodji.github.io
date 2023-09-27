@@ -37,7 +37,7 @@ I am an Assistant Professor of Computer Science at [ÉTS Montréal](https://www.
 I lead the Trustworthy Information Systems Lab ([TISL](https://tisl-lab.github.io/)).
 My research areas of interests are computer security, data privacy, optimization, and machine learning. My current research focuses on several aspects of trustworthy machine learning, such as fairness, privacy-preserving machine learning, and explainability.
 
-Before my current position, I was a postdoctoral researcher at [UQAM](https://uqam.ca/), working on machine learning ethics and privacy. I earned my Ph.D. in Computer Science at [Université Paul-Sabatier](https://www.univ-tlse3.fr/).
+Before my current position, I was a postdoctoral researcher at [UQAM](https://uqam.ca/), working with [Sébastien Gambs](https://sebastiengambs.openum.ca/) on machine learning ethics and privacy. I earned my Ph.D. in Computer Science at [Université Paul-Sabatier](https://www.univ-tlse3.fr/), under the supervision of [Marie-José Huguet](https://homepages.laas.fr/huguet/drupal/node/11) and [Marc-Olivier Killijian](https://kirija.github.io/). During my Ph.D, I was affiliated to LAAS-CNRS as a member of both [Dependable Computing and Fault Tolerance](https://www.laas.fr/public/en/tsf) and [Operations Research, Combinatorial Optimization and Constraints](https://www.laas.fr/public/en/roc) research groups.
 
 ## Affiliations
 - Assistant professor @ [ÉTS Montréal](https://www.etsmtl.ca/)
