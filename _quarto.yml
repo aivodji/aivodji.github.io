@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+execute:
+  freeze: auto
+
+website:
+  title: ""
+  #navbar:
+    #left:
+      #- href: https://tisl-lab.github.io/
+      #  text: "{{< fa user-group >}} Group"
+  page-footer:
+    border: false
+    left: "Published with [Quarto](https://quarto.org/)"
+    right: ""
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+

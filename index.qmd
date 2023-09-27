@@ -1,0 +1,75 @@
+---
+title: "Ulrich Aïvodji"
+image: images/profil.jpg
+image-alt: "Portrait photo"
+about:
+  template: trestles
+  image-width: 10em
+  image-shape: rounded
+  links:
+  
+    #- text: "{{< fa paper-plane >}}"
+    #  href: mailto:ulrich.aivodji@etsmtl.ca
+
+    - icon: github
+      href: https://github.com/aivodji
+
+    - icon: twitter
+      href: https://twitter.com/umaivodj
+      rel: me
+
+    - text: "{{< fa brands linkedin-in >}}"
+      href: https://www.linkedin.com/in/umaivodji/
+
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=fr&user=47kuuqIAAAAJ&sortby=pubdate
+
+    - text: "{{< fa brands flickr >}}"
+      href: https://www.flickr.com/photos/umaivodj
+
+comments: false
+title-block-banner: true
+---
+
+## Welcome!
+I am an Assistant Professor of Computer Science at [ÉTS Montréal](https://www.etsmtl.ca/) in the [Software and Information Technology Engineering Department](https://www.etsmtl.ca/ets/gouvernance/decanats-et-departements/departement-genie-logiciel-ti). 
+
+I lead the Trustworthy Information Systems Lab ([TISL](https://tisl-lab.github.io/)).
+My research areas of interests are computer security, data privacy, optimization, and machine learning. My current research focuses on several aspects of trustworthy machine learning, such as fairness, privacy-preserving machine learning, and explainability.
+
+Before my current position, I was a postdoctoral researcher at [UQAM](https://uqam.ca/), working on machine learning ethics and privacy. I earned my Ph.D. in Computer Science at [Université Paul-Sabatier](https://www.univ-tlse3.fr/).
+
+## Affiliations
+- Assistant professor @ [ÉTS Montréal](https://www.etsmtl.ca/)
+- Member @ [LASI](https://www.etsmtl.ca/en/labs/lasi/team)
+- Associate Academic Member @ [Mila - Québec Artificial Intelligence Institute](https://mila.quebec/en/)
+- Member @ [SEMLA](https://semla.quebec/en/)
+- Regular Member @ [OBVIA](https://observatoire-ia.ulaval.ca/en/)
+
+
+## Teaching
+- Summer 2023: [Data Privacy](https://www.etsmtl.ca/etudes/cours/GTI720) 
+- Winter 2023: [Computer Security](https://www.etsmtl.ca/Etudes/Cours/GTI619) 
+- Fall 2022: [Data Privacy](https://www.etsmtl.ca/etudes/cours/GTI720)
+- Winter 2022: [Computer Security](https://www.etsmtl.ca/Etudes/Cours/GTI619)  
+
+## Services
+- Area Chair
+    - FAccT: 23 
+
+- Reviewer 
+    - ICML: 21-23
+    - NeurIPS: 21-23
+    - ICLR: 22-23 
+    - Canadian: AI 22-23
+    - TMLR: 22
+    - IEEE Software: 19-23
+
+## Contact
+<i class="fa-regular fa-paper-plane"></i> [ulrich.aivodji@etsmtl.ca](mailto:ulrich.aivodji@etsmtl.ca)
+
+<i class="fa-regular fa-phone"></i> (514) 396-8800 ext 8664
+
+<i class="fa-regular fa-map"></i> 1100 Rue Notre Dame O, Montréal, QC H3C 1K3
+
+<i class="fa-solid fa-chalkboard-user"></i> Office: A-2734
